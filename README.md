@@ -1,6 +1,6 @@
-# 🔥 Fashion MNIST ANN with Optuna Hyperparameter Tuning (Notebook)
+# Fashion MNIST ANN with Optuna Hyperparameter Tuning (Notebook)
 
-## 📌 Overview
+## Overview
 
 আগে আমি **Fashion MNIST dataset** এর উপর PyTorch ব্যবহার করে একটি ANN pipeline তৈরি করেছিলাম।
 কিন্তু তখন গুরুত্বপূর্ণ hyperparameter গুলো যেমন:
