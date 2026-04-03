@@ -50,11 +50,11 @@ Optuna automatically খুঁজে বের করে কোন parameter com
 
 ---
 
-## 🔁 Optimization Details
+## Optimization Details
 
-* 🔍 Strategy: **Bayesian Optimization**
-* 📦 Library: **Optuna**
-* 🔄 Multiple trials run করে best parameter খুঁজে বের করা হয়েছে
+* Strategy: **Bayesian Optimization**
+* Library: **Optuna**
+* Multiple trials run করে best parameter খুঁজে বের করা হয়েছে
 
 ---
 
