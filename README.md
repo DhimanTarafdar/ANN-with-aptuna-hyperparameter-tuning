@@ -27,11 +27,11 @@ Optuna automatically খুঁজে বের করে কোন parameter com
 
 ## What’s Inside
 
-* ✅ PyTorch দিয়ে ANN implementation
-* ✅ GPU support (CUDA detection)
-* ✅ Configurable neural network (dynamic layers & neurons)
-* ✅ Training & evaluation pipeline
-* ✅ Optuna-based hyperparameter optimization
+* PyTorch দিয়ে ANN implementation
+* GPU support (CUDA detection)
+* Configurable neural network (dynamic layers & neurons)
+* Training & evaluation pipeline
+* Optuna-based hyperparameter optimization
 
 ---
 
