@@ -58,7 +58,7 @@ Optuna automatically খুঁজে বের করে কোন parameter com
 
 ---
 
-## 📊 Model Summary
+## Model Summary
 
 * Input: 784 (28×28 image flattened)
 * Output: 10 classes
@@ -68,12 +68,12 @@ Optuna automatically খুঁজে বের করে কোন parameter com
 
 ---
 
-## 🎯 Key Insight
+## Key Insight
 
-👉 আগে যেখানে intuition দিয়ে parameter set করতাম,
+ আগে যেখানে intuition দিয়ে parameter set করতাম,
 এই notebook-এ Optuna ব্যবহার করে **data-driven approach** follow করেছি।
 
-👉 এর ফলে better accuracy এবং optimized performance পাওয়া গেছে।
+ এর ফলে better accuracy এবং optimized performance পাওয়া গেছে।
 
 ---
 
