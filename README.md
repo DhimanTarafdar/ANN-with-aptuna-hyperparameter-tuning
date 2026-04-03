@@ -15,12 +15,12 @@
 
 ---
 
-## 🚀 In This Notebook
+## In This Notebook
 
 এই notebook-এ আমি **Bayesian Optimization** ব্যবহার করে
-**Optuna library** এর মাধ্যমে hyperparameter tuning করেছি 🔥
+**Optuna library** এর মাধ্যমে hyperparameter tuning করেছি 
 
-👉 এখানে manually guess না করে,
+ এখানে manually guess না করে,
 Optuna automatically খুঁজে বের করে কোন parameter combination model-এর performance improve করে।
 
 ---
