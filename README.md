@@ -25,7 +25,7 @@ Optuna automatically খুঁজে বের করে কোন parameter com
 
 ---
 
-## ⚙️ What’s Inside
+## What’s Inside
 
 * ✅ PyTorch দিয়ে ANN implementation
 * ✅ GPU support (CUDA detection)
@@ -35,7 +35,7 @@ Optuna automatically খুঁজে বের করে কোন parameter com
 
 ---
 
-## 🧠 Tuned Hyperparameters
+## Tuned Hyperparameters
 
 এই notebook-এ নিচের hyperparameter গুলো optimize করা হয়েছে:
 
